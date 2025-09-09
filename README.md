@@ -24,6 +24,9 @@ Apply **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** t
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
+## JUPYTER NOTES
+JUPYTER NOTEBOOK : [MALL_CUSTOMER](https://github.com/hansikapolisetty5-beep/Mall-Customer/blob/main/mall_customer.ipynb)
+
 ## 📌 Workflow
 
 1. **Data Preprocessing**
